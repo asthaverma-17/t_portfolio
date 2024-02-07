@@ -28,3 +28,10 @@ ul li a{
 .headlist ul li a{
     font-size: 15px;
 }
+.line {
+    height: 8px; /* diametre */
+    width: 10%;
+    background: 
+      radial-gradient(circle closest-side, #77809e 90%, #0000) 
+       0/14px 100%; /* 14px = 6px + 8px */
+  }
